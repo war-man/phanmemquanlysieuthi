@@ -1,0 +1,12 @@
+C:\Users\acer\Desktop\1760198_1760227_1760256\QuanLyBanHang\Entities\bin\Debug\Entities.dll
+C:\Users\acer\Desktop\1760198_1760227_1760256\QuanLyBanHang\Entities\bin\Debug\Entities.pdb
+C:\Users\acer\Desktop\1760198_1760227_1760256\QuanLyBanHang\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\1760198_1760227_1760256\QuanLyBanHang\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\1760198_1760227_1760256\QuanLyBanHang\Entities\obj\Debug\Entities.dll
+C:\Users\acer\Desktop\1760198_1760227_1760256\QuanLyBanHang\Entities\obj\Debug\Entities.pdb
+C:\Users\acer\Desktop\QuanLyBanHang\Entities\bin\Debug\Entities.dll
+C:\Users\acer\Desktop\QuanLyBanHang\Entities\bin\Debug\Entities.pdb
+C:\Users\acer\Desktop\QuanLyBanHang\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\QuanLyBanHang\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\QuanLyBanHang\Entities\obj\Debug\Entities.dll
+C:\Users\acer\Desktop\QuanLyBanHang\Entities\obj\Debug\Entities.pdb
